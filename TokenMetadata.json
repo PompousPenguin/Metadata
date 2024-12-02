@@ -2,13 +2,13 @@
     "name": "Pompous Penguin",
     "symbol": "PPeng",
     "description": "Pompous Penguin is a unique token designed for a special community of collectors and enthusiasts.",
-    "image": "./assets/images/pompous_penguin.png",
-    "external_url": "http://localhost:3000", 
+    "image": "https://raw.githubusercontent.com/PompousPenguin/Metadata/main/ProfilePic.jpg",
+    "external_url": "https://github.com/PompousPenguin/Metadata", 
     "properties": {
         "files": [
             {
-                "uri": "./assets/images/pompous_penguin.png",
-                "type": "image/png"
+                "uri": "https://raw.githubusercontent.com/PompousPenguin/Metadata/main/ProfilePic.jpg",
+                "type": "image/jpeg"
             }
         ],
         "category": "image"
